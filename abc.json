@@ -1,8 +1,15 @@
-[ "01": {
-        "name": "Hà Nội",
-        "slug": "ha-noi",
-        "type": "thanh-pho",
-        "name_with_type": "Thành phố Hà Nội",
-        "code": "01"
+{
+    "26": {
+        "name": "Vĩnh Phúc",
+        "slug": "vinh-phuc",
+        "type": "tinh",
+        "name_with_type": "Tỉnh Vĩnh Phúc",
+        "code": "26"
     },
-]
+    "37": {
+        "name": "Ninh Bình",
+        "slug": "ninh-binh",
+        "type": "tinh",
+        "name_with_type": "Tỉnh Ninh Bình",
+        "code": "37"
+    },
