@@ -1,0 +1,9 @@
+{ 
+  "01": {
+        "name": "Hà Nội",
+        "slug": "ha-noi",
+        "type": "thanh-pho",
+        "name_with_type": "Thành phố Hà Nội",
+        "code": "01"
+    },
+}
